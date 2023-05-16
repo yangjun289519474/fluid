@@ -61,7 +61,7 @@ fuse:
         mediumtype: MEM
         path: /dev/shm
         type: emptyDir
-        quota: 1GB
+        quota: 2GB
   hostNetwork: false
   nodeSelector: {}
   port:
